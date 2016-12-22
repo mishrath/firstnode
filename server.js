@@ -23,5 +23,5 @@ app.use(methodOverride());
 require('./app/routes')(app);
 
 // listen (start app with node server.js) ======================================
-app.listen(3001);
+app.listen(8088);
 console.log("App listening on port 3001");
