@@ -1,4 +1,3 @@
 module.exports = {
-    url: 'mongodb://ishazuremongo:5uOzu6PX5LwEkMOfj7AvdEgBOmzidXSrpFIXLY1DnAbjWOHJWdLWVQajHeDXGFgcLQXG0G3uojVyt6An5Hxo5A==@ishazuremongo.documents.azure.com:10250/?ssl=true'
-    //url:'https://ishazuremongo.documents.azure.com:443/ishazuremongo/'
+    url:'mongodb://ishmongo:f3i0FBk9APfS0xcIM4InIrr2w9VmYexopEMCgDqaKEps0l70AsPuWTcxaG6qS3ye4lqCrDFTrfnnlAp0G4enWQ==@ishmongo.documents.azure.com:10250/?ssl=true'
 };
